@@ -14,11 +14,9 @@ Pre-requisites:
 - Ruby
 - Compass
 
-After checking out the repo, go into the folder and run
-    bower install
+After checking out the repo, go into the folder and run `bower install`
 
-To run server, 
-    grunt server
+To run server, `grunt server`
 
-Edit Gruntfile.coffee if you need to access the server beyond localhost. Change the server from localhost to 0.0.0.0
+Edit `Gruntfile.coffee` if you need to access the server beyond localhost. Change the server from localhost to 0.0.0.0
 
